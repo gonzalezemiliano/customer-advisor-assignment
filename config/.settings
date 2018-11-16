@@ -1,0 +1,18 @@
+{
+    "projectName": "Customer Advisor Assignment",
+    "username": "emiliano@modelit.xyz",
+    "id": "b2976b10-e9cf-11e8-9cd5-bdae6f264564",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na85.salesforce.com",
+    "workspace": "C:\\Users\\Emiliano Gonzalez\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}
