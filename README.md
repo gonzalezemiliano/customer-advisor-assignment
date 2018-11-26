@@ -4,12 +4,12 @@ Steps:
 
 1- Create Data Model  ✔
 
-2- Create a method that migrates s3 json file to salesforce  (Callout Method I think)
+2- Create a method that migrates s3 json file to salesforce  (Callout Method I think)	✔
 
-3- Create a Batch class to upsert the data into salesforce
+3- Create a class to upsert the data into salesforce	✔
 
-4- Schedule to run it daily
+4- Schedule to run it daily		✔
 
-5- Create a Trigger that sends an email whether an error occurs (after insert, after update maybe)
+5- Create a class that sends an email whether an error occurs ✔
 
-6- Create a Unit Test Class for each Class and try to achive more than 75% of coverage
+6- Create a Unit Test Class for each Class and try to achive more than 75% of coverage	✔

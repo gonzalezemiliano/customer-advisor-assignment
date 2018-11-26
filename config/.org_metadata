@@ -19,7 +19,250 @@
         "cls": "folder",
         "select": false,
         "expanded": false,
-        "children": []
+        "children": [
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-22T19:43:26.000Z",
+                "fileName": "classes/ErrorUtility.cls",
+                "fullName": "ErrorUtility",
+                "id": "ApexClass.ErrorUtility",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-22T20:58:41.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "ErrorUtility",
+                "checked": false,
+                "text": "ErrorUtility",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-23T17:49:44.000Z",
+                "fileName": "classes/ErrorUtilityTest.cls",
+                "fullName": "ErrorUtilityTest",
+                "id": "ApexClass.ErrorUtilityTest",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-26T15:14:28.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "ErrorUtilityTest",
+                "checked": false,
+                "text": "ErrorUtilityTest",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-26T14:10:53.000Z",
+                "fileName": "classes/FinancialAdvisorCalloutMock.cls",
+                "fullName": "FinancialAdvisorCalloutMock",
+                "id": "ApexClass.FinancialAdvisorCalloutMock",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-26T14:39:03.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "FinancialAdvisorCalloutMock",
+                "checked": false,
+                "text": "FinancialAdvisorCalloutMock",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-19T12:28:52.000Z",
+                "fileName": "classes/FinancialAdvisorsCallout.cls",
+                "fullName": "FinancialAdvisorsCallout",
+                "id": "ApexClass.FinancialAdvisorsCallout",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-26T14:53:22.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "FinancialAdvisorsCallout",
+                "checked": false,
+                "text": "FinancialAdvisorsCallout",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-19T15:53:12.000Z",
+                "fileName": "classes/FinancialAdvisorsCalloutTest.cls",
+                "fullName": "FinancialAdvisorsCalloutTest",
+                "id": "ApexClass.FinancialAdvisorsCalloutTest",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-26T14:40:06.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "FinancialAdvisorsCalloutTest",
+                "checked": false,
+                "text": "FinancialAdvisorsCalloutTest",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-22T13:41:46.000Z",
+                "fileName": "classes/ScheduleNightlyUpsert.cls",
+                "fullName": "ScheduleNightlyUpsert",
+                "id": "ApexClass.ScheduleNightlyUpsert",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-26T14:56:03.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "ScheduleNightlyUpsert",
+                "checked": false,
+                "text": "ScheduleNightlyUpsert",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-23T12:58:31.000Z",
+                "fileName": "classes/ScheduleNightlyUpsertTest.cls",
+                "fullName": "ScheduleNightlyUpsertTest",
+                "id": "ApexClass.ScheduleNightlyUpsertTest",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-26T15:03:43.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "ScheduleNightlyUpsertTest",
+                "checked": false,
+                "text": "ScheduleNightlyUpsertTest",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-19T18:51:12.000Z",
+                "fileName": "classes/UpsertJsonData.cls",
+                "fullName": "UpsertJsonData",
+                "id": "ApexClass.UpsertJsonData",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-23T18:54:58.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "UpsertJsonData",
+                "checked": false,
+                "text": "UpsertJsonData",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-23T18:15:16.000Z",
+                "fileName": "classes/UpsertJsonDataTest.cls",
+                "fullName": "UpsertJsonDataTest",
+                "id": "ApexClass.UpsertJsonDataTest",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-23T20:44:04.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "UpsertJsonDataTest",
+                "checked": false,
+                "text": "UpsertJsonDataTest",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-20T12:13:10.000Z",
+                "fileName": "classes/fromJSON.cls",
+                "fullName": "fromJSON",
+                "id": "ApexClass.fromJSON",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-23T14:24:45.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "fromJSON",
+                "checked": false,
+                "text": "fromJSON",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-20T18:05:20.000Z",
+                "fileName": "classes/fromJSON_Test.cls",
+                "fullName": "fromJSON_Test",
+                "id": "ApexClass.fromJSON_Test",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-20T18:41:13.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "fromJSON_Test",
+                "checked": false,
+                "text": "fromJSON_Test",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            }
+        ]
     },
     {
         "id": "ApexComponent",
@@ -4806,7 +5049,7 @@
                 "id": "CustomObject.Customer__c",
                 "lastModifiedById": "0051U000000q0VdQAI",
                 "lastModifiedByName": "Emiliano Gonzalez",
-                "lastModifiedDate": "2018-11-15T19:27:59.000Z",
+                "lastModifiedDate": "2018-11-21T19:18:20.000Z",
                 "manageableState": "unmanaged",
                 "type": "CustomObject",
                 "leaf": false,
@@ -4961,6 +5204,16 @@
                                 "leaf": true,
                                 "checked": false,
                                 "level": 4,
+                                "text": "Customer_Account_Name__c",
+                                "title": "Customer_Account_Name__c",
+                                "isFolder": false,
+                                "id": "CustomObject.Customer__c.fields.Customer_Account_Name__c",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
                                 "text": "Customer_Number__c",
                                 "title": "Customer_Number__c",
                                 "isFolder": false,
@@ -5015,6 +5268,28 @@
                                 "title": "Phone__c",
                                 "isFolder": false,
                                 "id": "CustomObject.Customer__c.fields.Phone__c",
+                                "select": false
+                            }
+                        ],
+                        "select": false,
+                        "cls": "folder"
+                    },
+                    {
+                        "checked": false,
+                        "level": 3,
+                        "id": "CustomObject.Customer__c.listViews",
+                        "text": "listViews",
+                        "title": "listViews",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "All",
+                                "title": "All",
+                                "isFolder": false,
+                                "id": "CustomObject.Customer__c.listViews.All",
                                 "select": false
                             }
                         ],
@@ -6728,6 +7003,28 @@
                         ],
                         "select": false,
                         "cls": "folder"
+                    },
+                    {
+                        "checked": false,
+                        "level": 3,
+                        "id": "CustomObject.EmailMessage.webLinks",
+                        "text": "webLinks",
+                        "title": "webLinks",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "NEILON__Email_Attachments",
+                                "title": "NEILON__Email_Attachments",
+                                "isFolder": false,
+                                "id": "CustomObject.EmailMessage.webLinks.NEILON__Email_Attachments",
+                                "select": false
+                            }
+                        ],
+                        "select": false,
+                        "cls": "folder"
                     }
                 ],
                 "select": false
@@ -7364,6 +7661,38 @@
                                 "title": "As_of_Date__c",
                                 "isFolder": false,
                                 "id": "CustomObject.Financial_Advisor__c.fields.As_of_Date__c",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Number_of_Customers__c",
+                                "title": "Number_of_Customers__c",
+                                "isFolder": false,
+                                "id": "CustomObject.Financial_Advisor__c.fields.Number_of_Customers__c",
+                                "select": false
+                            }
+                        ],
+                        "select": false,
+                        "cls": "folder"
+                    },
+                    {
+                        "checked": false,
+                        "level": 3,
+                        "id": "CustomObject.Financial_Advisor__c.listViews",
+                        "text": "listViews",
+                        "title": "listViews",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "All",
+                                "title": "All",
+                                "isFolder": false,
+                                "id": "CustomObject.Financial_Advisor__c.listViews.All",
                                 "select": false
                             }
                         ],
@@ -8181,6 +8510,195 @@
                                 "title": "Industry",
                                 "isFolder": false,
                                 "id": "CustomObject.LeadCleanInfo.fields.Industry",
+                                "select": false
+                            }
+                        ],
+                        "select": false,
+                        "cls": "folder"
+                    }
+                ],
+                "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-22T20:36:41.000Z",
+                "fileName": "objects/Log__c.object",
+                "fullName": "Log__c",
+                "id": "CustomObject.Log__c",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-22T20:51:22.000Z",
+                "manageableState": "unmanaged",
+                "type": "CustomObject",
+                "leaf": false,
+                "title": "Log__c",
+                "checked": false,
+                "text": "Log__c",
+                "cls": "folder",
+                "level": 2,
+                "isFolder": true,
+                "children": [
+                    {
+                        "checked": false,
+                        "level": 3,
+                        "id": "CustomObject.Log__c.actionOverrides",
+                        "text": "actionOverrides",
+                        "title": "actionOverrides",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Accept",
+                                "title": "Accept",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.Accept",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "CancelEdit",
+                                "title": "CancelEdit",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.CancelEdit",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Clone",
+                                "title": "Clone",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.Clone",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Delete",
+                                "title": "Delete",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.Delete",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Edit",
+                                "title": "Edit",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.Edit",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Follow",
+                                "title": "Follow",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.Follow",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "List",
+                                "title": "List",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.List",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "New",
+                                "title": "New",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.New",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "SaveEdit",
+                                "title": "SaveEdit",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.SaveEdit",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Tab",
+                                "title": "Tab",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.Tab",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "View",
+                                "title": "View",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.actionOverrides.View",
+                                "select": false
+                            }
+                        ],
+                        "select": false,
+                        "cls": "folder"
+                    },
+                    {
+                        "checked": false,
+                        "level": 3,
+                        "id": "CustomObject.Log__c.fields",
+                        "text": "fields",
+                        "title": "fields",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "Log_Mail__c",
+                                "title": "Log_Mail__c",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.fields.Log_Mail__c",
+                                "select": false
+                            }
+                        ],
+                        "select": false,
+                        "cls": "folder"
+                    },
+                    {
+                        "checked": false,
+                        "level": 3,
+                        "id": "CustomObject.Log__c.listViews",
+                        "text": "listViews",
+                        "title": "listViews",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "All",
+                                "title": "All",
+                                "isFolder": false,
+                                "id": "CustomObject.Log__c.listViews.All",
                                 "select": false
                             }
                         ],
@@ -13069,6 +13587,26 @@
                                 "isFolder": false,
                                 "id": "CustomObject.User.fields.ManagerId",
                                 "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "NEILON__File_Access_Type__c",
+                                "title": "NEILON__File_Access_Type__c",
+                                "isFolder": false,
+                                "id": "CustomObject.User.fields.NEILON__File_Access_Type__c",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "NEILON__Is_S3_Link_User__c",
+                                "title": "NEILON__Is_S3_Link_User__c",
+                                "isFolder": false,
+                                "id": "CustomObject.User.fields.NEILON__Is_S3_Link_User__c",
+                                "select": false
                             }
                         ],
                         "select": false,
@@ -13263,6 +13801,61 @@
                     }
                 ],
                 "select": false
+            },
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-19T15:16:59.000Z",
+                "fileName": "objects/s3Credentials__c.object",
+                "fullName": "s3Credentials__c",
+                "id": "CustomObject.s3Credentials__c",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-19T15:16:59.000Z",
+                "manageableState": "unmanaged",
+                "type": "CustomObject",
+                "leaf": false,
+                "title": "s3Credentials__c",
+                "checked": false,
+                "text": "s3Credentials__c",
+                "cls": "folder",
+                "level": 2,
+                "isFolder": true,
+                "children": [
+                    {
+                        "checked": false,
+                        "level": 3,
+                        "id": "CustomObject.s3Credentials__c.fields",
+                        "text": "fields",
+                        "title": "fields",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "key__c",
+                                "title": "key__c",
+                                "isFolder": false,
+                                "id": "CustomObject.s3Credentials__c.fields.key__c",
+                                "select": false
+                            },
+                            {
+                                "leaf": true,
+                                "checked": false,
+                                "level": 4,
+                                "text": "secret__c",
+                                "title": "secret__c",
+                                "isFolder": false,
+                                "id": "CustomObject.s3Credentials__c.fields.secret__c",
+                                "select": false
+                            }
+                        ],
+                        "select": false,
+                        "cls": "folder"
+                    }
+                ],
+                "select": false
             }
         ]
     },
@@ -13286,6 +13879,29 @@
         "cls": "folder",
         "select": false,
         "expanded": false,
-        "children": []
+        "children": [
+            {
+                "createdById": "0051U000000q0VdQAI",
+                "createdByName": "Emiliano Gonzalez",
+                "createdDate": "2018-11-26T14:06:49.000Z",
+                "fileName": "staticresources/GetAdvisorsResource.resource",
+                "fullName": "GetAdvisorsResource",
+                "id": "StaticResource.GetAdvisorsResource",
+                "lastModifiedById": "0051U000000q0VdQAI",
+                "lastModifiedByName": "Emiliano Gonzalez",
+                "lastModifiedDate": "2018-11-26T14:06:49.000Z",
+                "manageableState": "unmanaged",
+                "type": "StaticResource",
+                "leaf": true,
+                "title": "GetAdvisorsResource",
+                "checked": false,
+                "text": "GetAdvisorsResource",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            }
+        ]
     }
 ]
