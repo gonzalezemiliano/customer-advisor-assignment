@@ -9,10 +9,6 @@
     "workspace": "C:\\Users\\Emiliano Gonzalez\\Documents",
     "subscription": [
         "ApexClass",
-        "ApexComponent",
-        "ApexPage",
-        "ApexTrigger",
-        "CustomObject",
-        "StaticResource"
+        "CustomObject"
     ]
 }
