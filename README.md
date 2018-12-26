@@ -4,11 +4,7 @@ Steps:
 
 1- Create Data Model  ✔
 
-<<<<<<< HEAD
 2- Create a method that migrates s3 json file to salesforce  (Callout Method I think) ✔
-=======
-2- Create a method that migrates s3 json file to salesforce  (Callout Method I think)	✔
->>>>>>> Assignment completed
 
 3- Create a class to upsert the data into salesforce	✔
 
