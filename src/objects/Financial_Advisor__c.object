@@ -52,14 +52,14 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Account_Number__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>Account Number</label>
-        <length>10</length>
+        <length>255</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
@@ -83,8 +83,22 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
+    <fields>
+        <fullName>Number_of_Customers__c</fullName>
+        <externalId>false</externalId>
+        <label>Number of Customers</label>
+        <summaryForeignKey>Customer__c.Financial_Advisor__c</summaryForeignKey>
+        <summaryOperation>count</summaryOperation>
+        <trackTrending>false</trackTrending>
+        <type>Summary</type>
+    </fields>
     <gender>Feminine</gender>
     <label>Financial Advisor</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>Account Name</label>
         <type>Text</type>

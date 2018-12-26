@@ -52,7 +52,7 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
@@ -66,10 +66,20 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Customer_Account_Name__c</fullName>
+        <externalId>true</externalId>
+        <label>Customer Account Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Customer_Number__c</fullName>
         <externalId>false</externalId>
         <label>Customer Number</label>
-        <length>10</length>
+        <length>255</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
@@ -87,15 +97,16 @@
     </fields>
     <fields>
         <fullName>Financial_Advisor__c</fullName>
-        <deleteConstraint>SetNull</deleteConstraint>
         <externalId>false</externalId>
         <label>Financial Advisor</label>
         <referenceTo>Financial_Advisor__c</referenceTo>
         <relationshipLabel>Customers</relationshipLabel>
         <relationshipName>Customers</relationshipName>
-        <required>false</required>
+        <relationshipOrder>0</relationshipOrder>
+        <reparentableMasterDetail>false</reparentableMasterDetail>
         <trackTrending>false</trackTrending>
-        <type>Lookup</type>
+        <type>MasterDetail</type>
+        <writeRequiresMasterRead>false</writeRequiresMasterRead>
     </fields>
     <fields>
         <fullName>First_Name__c</fullName>
@@ -129,11 +140,16 @@
     </fields>
     <gender>Feminine</gender>
     <label>Customer</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>Customer Number</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Customers</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>
